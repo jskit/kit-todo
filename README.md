@@ -1,2 +1,3 @@
 # kit-todo
-TO-DO
+
+like [Microsoft To-Do](https://todo.microsoft.com/)
